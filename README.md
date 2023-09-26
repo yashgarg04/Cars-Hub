@@ -1,3 +1,12 @@
+Alongside building this application, I've learnt how to:
+
+1. Use Next.js 13 App Router and Server Side Rendering
+2. Implement Advanced Search Functionality
+3. Create Filtering Capabilities Optimize Metadata and SEO
+4. Create custom filter, combobox, and modal elements
+5. Maintain a well-organized file and folder structure.
+6. Embrace the principles of writing clean code.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
