@@ -7,6 +7,7 @@ Alongside building this application, I've learnt how to:
 5. Maintain a well-organized file and folder structure.
 6. Embrace the principles of writing clean code.
 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
